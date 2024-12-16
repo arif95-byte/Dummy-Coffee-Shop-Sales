@@ -12,3 +12,7 @@ This dashboard provides an insightful overview of the sales performance for a co
    - Visual breakdown of sales by geographical location to spot trends and identify potential high-performing regions or areas that need more marketing focus.
 5. Time-based Sales Analysis:
    - An analysis of peak sales hours or days, helping in resource allocation and inventory management for optimized operations.
+
+# Snippet of the report:
+![image](https://github.com/user-attachments/assets/9d369b91-2a3b-4590-9c85-b7ee5a75ff7e)
+
