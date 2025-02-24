@@ -1,4 +1,4 @@
-# Dummy Coffee Shop Sales Dashboard Overview
+# Coffee Shop Sales Dashboard Overview
 This dashboard provides an insightful overview of the sales performance for a coffee shop, with a focus on understanding key business metrics and customer behaviour. It includes various interactive visualizations to track sales trends, product performance, and customer demographics.
 
 # Key Features:
